@@ -1,4 +1,4 @@
-Might be very interesting for the stores.
+Might be very interesting for the managing stores.
 Glove barcode-scanner with a battery. Keeps the hands of the worker free.
 Is able to make 3k-4k scans from one charge.
 
