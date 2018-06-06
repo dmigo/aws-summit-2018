@@ -47,6 +47,11 @@ type Mutatuion{
     Engine
     Network
 
+## Prisma
+
+DB-agnostic
+DB -> GraphQL
+API server delegate queries to Prisma
 
 ## Links
 
