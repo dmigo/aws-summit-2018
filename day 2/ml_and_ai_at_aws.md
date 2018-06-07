@@ -28,3 +28,17 @@ highly customizable
 Conversational interfaces
 
 Remember aLexa?
+Whatever you can do with Lambda, you can do with Lex as well
+
+
+### Amazon Recognition Video
+
+### SageMaker
+Prebuilt notebooks
+Algorithms
+Frameworks
+
+Build -> Train -> Deploy
+
+## Resumee
+Brief introduction of what AI and ML products does AWS have.
