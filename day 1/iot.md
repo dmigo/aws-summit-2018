@@ -3,3 +3,6 @@
 
 ## Highlights
  - FreeRTOS
+
+## Links
+[FreeRTOS on AWS](https://aws.amazon.com/freertos/?nc1=h_ls)  

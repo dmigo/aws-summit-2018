@@ -37,13 +37,13 @@ Good for time-series. Operates on LSTM neurons, that keep memory of the previous
 Generates something like training sample.
 
 
-## Let's write some code!!!
+## Let's write some code section
 
-[**Apache MXNet**](Link goes here)
-[**Gluon API**](Link goes here)
-[**Gluon CV**](Link goes here)
-[**Model Server for Apache MXNet**](Link goes here)
-[**Keras MXNet**](Link goes here)
+[**Apache MXNet**](https://mxnet.apache.org/)
+[**Gluon API**](https://mxnet.incubator.apache.org/api/python/gluon/data.html)
+[**Gluon CV**](https://github.com/dmlc/gluon-cv)
+[**Model Server for Apache MXNet**](https://aws.amazon.com/blogs/machine-learning/introducing-model-server-for-apache-mxnet/)
+[**Keras MXNet**](https://pypi.org/project/keras-mxnet/)
 
 ## Resumee
 A good, high quality lecture. Introduction to the topic, no going too much into tech details, yet describing all the important points.
