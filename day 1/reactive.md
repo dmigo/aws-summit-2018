@@ -1,12 +1,12 @@
 
 # Reactive Microservices Architecture on AWS
-*By Sascha Möllering*
+*Sascha Möllering* AWS
 
 ## General Idea
-[Reactive Manifesto](add a link here)
+[Reactive Manifesto](https://www.reactivemanifesto.org/)  
 Move N-Tier -> Reactive architecture
 
-## Poinnts
+## Points
  - don't share sdk's and libraries
  - use lightweight protocols for communication (Kafka, Kinesis, RabbitMQ)
 
@@ -16,5 +16,5 @@ Mentioned every AWS system possible
 VertX commercial
 
 ## References
- - [aws-samples/reactive-research-blabla on git]()
- - [Reactive Manifesto]()
+ - [reactive-refarch-cloudformation on git](https://github.com/aws-samples/reactive-refarch-cloudformation)
+ - [Reactive Manifesto](https://www.reactivemanifesto.org/)
