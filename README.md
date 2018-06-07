@@ -1,4 +1,7 @@
-### Day 1
+# AWS Summit, Berlin 2018
+This repo contains my notes from the conference.
+
+## Day 1
 #### Notes from presentations
 [Reactive Microservices Architecture on AWS](day%201/reactive.md)  
 [Easier than Ever: An Introduction for Building End to End IoT Solutions](day%201/iot.md)  
@@ -11,3 +14,4 @@
 ### Day 2
 [Advanced Auto-Scaling And Deployment Tools for K8S](day%202/auto_scaling.md)  
 [Machine Learning & AI at Amazon](day%202/ml_and_ai_at_aws.md)  
+[Data Challenges in an acquisition based world](day%202/datalake.md)  
