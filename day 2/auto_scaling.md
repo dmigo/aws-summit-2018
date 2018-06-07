@@ -27,3 +27,6 @@ Spotinst:
 
 ## Headspace
 
+## Resumee
+Intruduction to the Spotinst product
+

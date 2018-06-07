@@ -1,4 +1,4 @@
-#AWS ML & AI Deep Dive
+# AWS ML & AI Deep Dive
 *Julien Simon*
 
 ## Introduction
